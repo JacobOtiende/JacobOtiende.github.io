@@ -1,13 +1,14 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Jacob Otiende # your name (or website title) here
+logo: <img src="https://github.com/JacobOtiende/jacobotiende.github.io/raw/master/jacobpict.jpg" alt="Logo">
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A graduate student specializing in Business Analytics and Artificial Intelligence 
+  at The University of Texas at Dallas, I bring over three years of IT experience within the 
+  Department of Defense to my academic journey. This unique background equips me with a solid foundation in 
+  secure systems, data-driven decision-making, and the ability to tackle complex challenges in high-stakes environments.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jacob-o-otiende/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-PDY54X40NK # your Google Analytics tracking ID here
