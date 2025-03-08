@@ -1,4 +1,4 @@
-## Portfolio
+## My Portfolio
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [New York boroughs AirBnB visualizations](https://public.tableau.com/app/profile/jacob.otiende3152/viz/NewYorkAirBnB_17358555987950/Dashboard1?publish=yes)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
